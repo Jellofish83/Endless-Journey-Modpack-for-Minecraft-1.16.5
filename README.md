@@ -1,4 +1,4 @@
-# Ennless-Journey-Modpack-for-Minecraft-1.16.5
+# Endless-Journey-Modpack-for-Minecraft-1.16.5
 Please notice that this modpack is made by Jellofish83, all rights recived.
 You may not send this modpack to anywhere unless you have the orginal author's permission.
 Modpack is for Minecraft 1.16.5
